@@ -18,7 +18,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^2.1.4",
     "node-uuid": "^1.4.8",
-    "openid-client": "^2.5.0",
+    "openid-client": "^6.8.9",
     "simple-oauth2": "^2.5.2",
     "winston": "^3.2.1"
   },
